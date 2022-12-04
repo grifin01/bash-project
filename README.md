@@ -72,7 +72,7 @@ date >> hosts_status.log
 done
 echo "Done"
 ```
-
+![image](https://user-images.githubusercontent.com/111656372/205510895-b9b7061d-39d0-4259-9d34-15baf529abe9.png)
 ---
 ## Задание 4
 
@@ -97,3 +97,4 @@ do
     done
 done
 ```
+![image](https://user-images.githubusercontent.com/111656372/205510933-1d0f01ba-cf49-4ad8-a3a9-5d202351700d.png)
